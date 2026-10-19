@@ -1,0 +1,4 @@
+name,pin,allocated_data_gb,data_used_gb,plan_name,last_action
+Neha,1234,10,10,Standard 10GB,
+Rahul,1234,20,8,Standard 20GB,
+Vivaan,1234,5,4.5,Basic 5GB,
