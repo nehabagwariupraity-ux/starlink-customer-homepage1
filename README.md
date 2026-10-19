@@ -1,4 +1,4 @@
-# Fitness / Telecom Recommendation Demo
+# Telecom Recommendation Demo
 
 This repository contains a minimal prototype: a Node/Express backend with a SQLite database and a small React (Vite) frontend. It demonstrates an on-homepage recommendation widget that suggests plan upgrades/downgrades or offers based on recent usage.
 
